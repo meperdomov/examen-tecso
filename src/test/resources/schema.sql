@@ -1,0 +1,1 @@
+create table titular(id int primary key, nombre varchar(255), apellido varchar(255), dni varchar (128), cuit varchar (255), razon varchar (255), anyo varchar(255), tipo varchar(128));
